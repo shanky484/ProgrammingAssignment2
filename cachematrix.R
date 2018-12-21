@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## Put comments here that give an overall description of what your test
 ## functions do
 
 ## Write a short comment describing this function
